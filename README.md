@@ -2,6 +2,7 @@
 
 Hi there, I'm Ramsey the founding steward of Decentration, we're building decentralised tools for an open society on Web 3.0. We are focussing on building blockchain tools that will allow humans to to organise in better systems over the internet. 👋
 
+- We've received grant funding through Web 3 foundation for [Supersig](https://github.com/kabocha-network/pallet_supersig).
 - 🔭 We're currently working on [Kabocha blockchain through Edgeware.](https://github.com/Kabocha-Network/) 
 - 🌱 We've been working with Substrate since December 2020.
 - 👯 We're always looking for like minded contributors to collaborate on decentralised tools that will enable wider and deeper use of Web 3.0.
