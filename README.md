@@ -1,6 +1,6 @@
 <center><img src="https://user-images.githubusercontent.com/45230082/142871333-a25292f4-1db4-428f-b1c3-5e493520baed.png" alt="entrationLogo" width="100"/></center>
 
-Hi there, I'm Ramsey the founding steward of Decentration, we're building decentralised organisms and tools, which encompasses blockchain, computer science, ML, and wider scientific research to steward new paradigms of technology. ⛓ 👋
+Hi there, I'm Ramsey the founding steward of Decentration, we're building decentralised organisms and tools, which encompasses blockchain, AI, and cross pollinating research to explore new paradigms of technology. ⛓ 👋
 
 - We're currently working on autonomous agents with decentralised values to produce novel decentralised organisms. Essentially blockchains that have autonomous agents powered by AI, LLMs (GPT). 
 - Recently, we've received grant funding through Web 3 foundation for [Supersig](https://github.com/kabocha-network/pallet_supersig).
