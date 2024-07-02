@@ -2,7 +2,8 @@
 
 Hi there, I'm Ramsey the founding steward of Decentration, we're building decentralised organisms and tools, which encompasses blockchain, AI, and cross pollinating research to explore new paradigms of technology. ⛓ 👋
 
-- We're currently working on autonomous agents with decentralised values to produce novel decentralised organisms. Essentially blockchains that have autonomous agents powered by AI, LLMs (GPT). 
+- We're currently working on Bagpipes, the place to build dapps with no-code... using an awesome drag and drop interface... Zapier is like a "Bagpipes for Web2 APIs" : P. This project is a startup that has received multiple grants and has engaged multiple communties, particularly Polkadot and substrate based chains... 
+- We're also interested in autonomous agents with decentralised values to produce novel decentralised organisms. Essentially blockchains that have autonomous agents powered by AI, LLMs (GPT). 
 - Recently, we've received grant funding through Web 3 foundation for [Supersig](https://github.com/kabocha-network/pallet_supersig).
 - - We're also working on designing new computing infrastructure from the assembly level. 
 - 🔭 We participated in the [Kabocha](https://github.com/Kabocha-Network/) parachain experiment on behalf of [Edgeware](https://edgewa.re)
