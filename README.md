@@ -1,4 +1,6 @@
 <center><img src="https://user-images.githubusercontent.com/45230082/142871333-a25292f4-1db4-428f-b1c3-5e493520baed.png" alt="DecentrationLogo" width="100"/></center>
+<center><img src="https://drive.google.com/uc?export=view&id=15r50NY9VwdESE6c36dxoPPi0Z20fMbDc" alt="Ramsey" width="100"/></center>
+
 
 Hi there, I'm Ramsey the founding steward of Decentration, we're building decentralised organisms and tools, which encompasses blockchain, AI, and cross pollinating research to explore new paradigms of technology. ⛓ 👋
 
