@@ -8,7 +8,7 @@ Hi there, I'm Ramsey the founding steward of Decentration, we're building decent
 - We're currently working on Bagpipes, the place to build dapps with no-code... using an awesome drag and drop interface... Zapier is like a "Bagpipes for Web2" : P. This project is a startup that has received multiple grants and has engaged multiple communties, particularly Polkadot and substrate based chains... 
 
 # What are we interested in?
-- We're interesting in designing new computing infrastructure at the assembly level, from first principles. (This was prior to the [JAM Paper](https://graypaper.com), but now JAM has arrived as a protocol design we are thinking how we can contribute to release coherent performant decentralised computing. 
+- We're interesting in designing new computing infrastructure at the assembly level, from first principles. (This was prior to the [JAM Paper](https://graypaper.com), but now JAM has arrived as a protocol design we are thinking how we can contribute to realise coherent performant decentralised computing. 
 
 - We're also interested in autonomous agents with decentralised values to produce novel decentralised organisms. Essentially blockchains that have autonomous agents powered by AI, LLMs (GPT). 
 
