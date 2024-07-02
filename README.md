@@ -16,7 +16,7 @@ It's the necessary counter condition to conentration, a word used by [Walter Rus
 
 - We're also interested in autonomous agents with decentralised values to produce novel decentralised organisms. Essentially blockchains that have autonomous agents powered by AI, LLMs (GPT). 
 
-# What have worked on...
+# What have we worked on...
 - 🔭 We participated in the [Kabocha](https://github.com/Kabocha-Network/) parachain experiment on behalf of [Edgeware](https://edgewa.re)
 - 🌱 We've been working with [Substrate Blockchain Framework](https://substrate.dev) since December 2020.
 - 👯 We're always looking for like minded contributors to explore how we can realise decentralised organisms for humanity.
