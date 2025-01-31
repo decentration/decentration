@@ -15,6 +15,7 @@ Hi there, I'm Ramsey the founding steward of Decentration. We're on a mission to
 - We're also interested in autonomous agents with decentralised values to produce novel decentralised organisms. Essentially blockchains that have autonomous agency.
 
 # What have we worked on...
+- ⛓️ [Bagpipes](https://bagpipes.io) => no-code playground for web3. 
 - 🔭 participated in the [Kabocha](https://github.com/Kabocha-Network/) parachain experiment on behalf of [Edgeware](https://edgewa.re)
 - 🌱 working with [Substrate Blockchain Framework](https://substrate.dev) since December 2020.
 - 👯 always looking for like minded contributors to explore how we can realise decentralised organisms for humanity.
