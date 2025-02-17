@@ -14,9 +14,9 @@ It's important that we all have the opportunity for them to work for us.
 - Orgs AI: build decentralised autonomous organisations of agents that work for humans. 
 
 # Notable projects and achievments
-- [Bagpipes](https://bagpipes.io)... a playground for building workflows and Dapps over blockchain infrastructure.
-- Bootstrapped Parachain: bootstrapped a blockchain (parachain) with 1.5 FTE (full time employees) in a time when only millions were spent in seed funds to build, lanch and maintain a parachain. ([Kabocha](https://github.com/Kabocha-Network/)  on [Kusama](https://kusama.network).
-- PBA: attended and qualified through the PBA ([Polkadot Blockchain Academy](https://polkadot.academy)), learning from blockchain pionners and wizards, like Gavin Wood. 
+- **[Bagpipes](https://bagpipes.io)**... a playground for building workflows and Dapps over blockchain infrastructure.
+- **[Parachain technical lead](https://gov.edgewa.re/discussion/2515-kabocha-technical-steward-proposal-referenda-funding)**: Saved millions by Bootstrapping a Parachain. Over 18 months starting from 2021, I bootstrapped a blockchain (parachain) with 1.5 FTE (full time employees) in a time when only millions were spent in seed funds to build, lanch and maintain a parachain. ([Kabocha](https://github.com/Kabocha-Network/)  on [Kusama](https://kusama.network).
+- **PBA Graduate**: attended and qualified through the PBA ([Polkadot Blockchain Academy](https://polkadot.academy)), learning from blockchain pionners and wizards, like Gavin Wood over a 4 week period, in Cambridge, 2022. 
 
 # What are we interested in?
 - designing new computing infrastructure at the assembly level, from first principles.
