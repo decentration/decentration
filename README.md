@@ -1,14 +1,28 @@
 <center><img src="https://user-images.githubusercontent.com/45230082/142871333-a25292f4-1db4-428f-b1c3-5e493520baed.png" alt="DecentrationLogo" width="100"/></center>
 <center><img src="https://drive.google.com/uc?export=view&id=15r50NY9VwdESE6c36dxoPPi0Z20fMbDc" alt="Ramsey" width="100"/></center>
 
-We're on a journey to building decentralised organisms lead by Ramsey, lead architect of Decentration... This is involved the consubstantiation of blockhains and AI. 
-With this paradigm unfolding of "thinking and reasoning" machines. things are getting weird pretty quickly. 
-Our core value is to empower humans to leverage "brains in machines" (AI), and to retain ownership and sovereignty of it's output. 
-There will be organisations of agentic AI, allocate resources and doing useful work over blockspace. 
+We're on a journey to building decentralised organisms lead by Ramsey, lead architect of Decentration... 
+This involves the consubstantiation of blockhain and AI. 
+
+As is becoming very apparent, a new paradigm is unfolding of "thinking and reasoning" machines. 
+And things are getting weird pretty quickly!
+
+A core value which embodies Decentration is to empower humans to leverage "brains in machines" (AI), 
+and for humans to have the shared opportunity to retain ownership and sovereignty of it's output. 
+
+There will be organisations of agentic AI, to allocate resources and doing useful work over [blockspace](https://polkadot.com/blockspace). 
+They will have the attributes that appear more like an organism than a program running on a machine. 
+
+Components of the organism will have a shared objective function, they will have cognition and autonomy to make choice. 
+
 It's important that we all have the opportunity for them to work for us.  
 
-# What are we working on now
+And there will be no better place for these cognitive organisms to leverage Polkadot's JAM blockspace, which will essentially allow you to run fully fledged programs, with unbounded throughput. 
+Making this generation of blockchain feel like a relic. 
+
+# What projects are we working on now
 - The new [JAM](https://jam.web3.foundation) protocol client.
+- **[Bagpipes](https://bagpipes.io)**... a playground for building workflows and Dapps over blockchain infrastructure.
 
 # What's coming soon...
 - Orgs AI: build decentralised autonomous organisations of agents that work for humans. 
