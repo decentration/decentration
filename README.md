@@ -29,7 +29,7 @@ Making this generation of blockchain feel like a relic.
 
 ## Notable projects and achievments
 - _2024/2023_: **[Bagpipes](https://bagpipes.io)**... a playground for building workflows and Dapps over blockchain infrastructure.
-- _2022/2021_: **[Parachain technical lead](https://gov.edgewa.re/discussion/2515-kabocha-technical-steward-proposal-referenda-funding)**: Saved millions by Bootstrapping a Parachain. Over 18 months starting from 2021, I bootstrapped a blockchain (parachain) with 1.5 FTE (full time employees) in a time when only millions were spent in seed funds to build, lanch and maintain a parachain. ([Kabocha](https://github.com/Kabocha-Network/) parachain on the [Kusama](https://kusama.network) relay network).
+- _2022/2021_: **[Parachain technical lead](https://gov.edgewa.re/discussion/2515-kabocha-technical-steward-proposal-referenda-funding)**: Saved millions by Bootstrapping a Parachain. Over 18 months starting from 2021, I essentially bootstrapped a blockchain (parachain) with 1.5 FTE (full time employees) in a time when no less than millions of dollars of funding was spent to launch, build and maintain a parachain. ([Kabocha](https://github.com/Kabocha-Network/) parachain on the [Kusama](https://kusama.network) relay network).
 - _2022_:      **PBA Graduate**: attended and qualified through the PBA ([Polkadot Blockchain Academy](https://polkadot.academy)), learning from blockchain pionners and wizards, like Gavin Wood over a 4 week period, in Cambridge, 2022. 
 
 ## What are we interested in?
