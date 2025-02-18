@@ -10,14 +10,15 @@ And things are getting weird pretty quickly!
 A core value which embodies Decentration is to empower humans to leverage "brains in machines" (AI), 
 and for humans to have the shared opportunity to retain ownership and sovereignty of it's output. 
 
-There will be organisations of agentic AI, to allocate resources and doing useful work over [blockspace](https://polkadot.com/blockspace). 
+There will be organisations of agentic AI that work to allocate resources and do useful work over blockchains. 
 They will have the attributes that appear more like an organism than a program running on a machine. 
 
 Components of the organism will have a shared objective function, they will have cognition and autonomy to make choice. 
 
 It's important that we all have the opportunity for them to work for us.  
 
-And there will be no better place for these cognitive organisms to leverage Polkadot's JAM blockspace, which will essentially allow you to run fully fledged programs, with unbounded throughput. 
+And there will be no better place for these cognitive organisms to leverage Polkadot's JAM [blockspace](https://polkadot.com/blockspace, which will essentially allow you to run fully fledged programs, with unbounded throughput. 
+
 Making this generation of blockchain feel like a relic. 
 
 ## What projects are we working on now
