@@ -3,7 +3,9 @@
 
 
 We are pushing the envelope in Blockchain by working on an implementation of JAM. 
+
 JAM is a new dynamically coherent decentralised computer that allows you to literally run turing complete computer programs on it. 
+
 Given this new paradigm, what is now possible?
 
 ## What projects are we working on now
