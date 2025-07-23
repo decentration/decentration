@@ -2,7 +2,13 @@
 <center><img src="https://drive.google.com/uc?export=view&id=15r50NY9VwdESE6c36dxoPPi0Z20fMbDc" alt="Ramsey" width="100"/></center>
 
 
-We are pushing the envelope in Blockchain by working on an implementation of JAM. 
+_...pushing the envelope in Blockchain by working on an implementation of JAM._
+
+Consider the reality where computation is freed from the limitations of block productioin and TPS, and instead you can run normal software on a decentralised computer...
+
+You can render video frames in real-time...
+How will we interact with such a computer? 
+What will be its interface and how will humanity benefit?
 
 JAM is a new dynamically coherent decentralised computer that allows you to literally run turing complete computer programs on it. 
 
