@@ -2,6 +2,25 @@
 <center><img src="https://drive.google.com/uc?export=view&id=15r50NY9VwdESE6c36dxoPPi0Z20fMbDc" alt="Ramsey" width="100"/></center>
 
 
+
+## What projects are we working on now
+- [Orgs](https://orgs.ai) - A platform for self-driving and improving companies that learn from you and earn your trust toward autonomy.
+
+This is what we are working on with Orgs. Self-driving Companies. 
+
+we are approaching these system holistically. 
+
+
+Nurture ---> Stewardship ----> Autonomy 
+(Baby).       (Adolesvent).     (Adult)
+
+Autonomy doesnt just come out of the box, it is earned by the entity progressively over Nurture and Stewarding phases, where the holds the hand of the entity 
+
+
+
+## What did we work on recently:
+- The new [JAM](https://jam.web3.foundation) protocol client.
+
 _...pushing the envelope in Blockchain by working on an implementation of JAM._
 
 Consider the reality where computation is freed from the limitations of block productioin and TPS, and instead you can run normal software on a decentralised computer...
@@ -13,12 +32,6 @@ What will be its interface and how will humanity benefit?
 JAM is a new dynamically coherent decentralised computer that allows you to literally run turing complete computer programs on it. 
 
 Given this new paradigm, what is now possible?
-
-## What projects are we working on now
-- The new [JAM](https://jam.web3.foundation) protocol client.
-
-## What did we work on recently:
-- **[Bagpipes](https://bagpipes.io)**... a playground for building workflows and Dapps over blockchain infrastructure.
 
 ## Notable projects and achievments
 - _2024/2023_: **[Bagpipes](https://bagpipes.io)**... a playground for building workflows and Dapps over blockchain infrastructure.
